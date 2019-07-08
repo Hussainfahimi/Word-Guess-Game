@@ -9,7 +9,7 @@ Guess the correct word and earn a win point!
 
 
 
-<h4>Game Instruction:</h4>
+ <h4>Game Instruction:</h4>
   1. press any key to start guessing.<br>
   2. guess letters to determine word.<br>
   3. If you guess correctly, you win the round and get a point.<br>
@@ -18,7 +18,7 @@ Guess the correct word and earn a win point!
 
 
   <h4>Tools/Languages Used:</h4>
-     -- Javascript
-     -- HTML
-     -- CSS
-     -- GoogleFonts
+     -- Javascript<br>
+     -- HTML<br>
+     -- CSS<br>
+     -- GoogleFonts<br>
